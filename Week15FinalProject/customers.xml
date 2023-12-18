@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers>
+    <Customer ID="1">
+        <name>ACME Hauling</name>
+        <type>Commercial</type>
+        <address>123 Main St</address>
+        <city>Springfield</city>
+        <state>IL</state>
+        <zip>62701</zip>
+    </Customer>
+    <Customer ID="2">
+        <name>AJ Newtown</name>
+        <type>Residential</type>
+        <address>456 Oak St</address>
+        <city>Rivertown</city>
+        <state>CA</state>
+        <zip>90210</zip>
+    </Customer>
+    <Customer ID="3">
+        <name>Foster Burgers</name>
+        <type>Commercial</type>
+        <address>789 Pine St</address>
+        <city>Lakeside</city>
+        <state>NY</state>
+        <zip>10001</zip>
+    </Customer>
+    <Customer ID="4">
+        <name>Emily's Bakery</name>
+        <type>Residential</type>
+        <address>101 Elm St</address>
+        <city>Mountainview</city>
+        <state>CO</state>
+        <zip>80302</zip>
+    </Customer>
+    <Customer ID="5">
+        <name>Smith Paving</name>
+        <type>Commercial</type>
+        <address>202 Cedar St</address>
+        <city>Harbortown</city>
+        <state>FL</state>
+        <zip>33101</zip>
+    </Customer>
+    <Customer ID="6">
+        <name>Dave's Painting Service</name>
+        <type>Residential</type>
+        <address>303 Birch St</address>
+        <city>Valleyville</city>
+        <state>TX</state>
+        <zip>75201</zip>
+    </Customer>
+</Customers>
